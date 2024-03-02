@@ -29,25 +29,9 @@ The model's performance was evaluated using standard metrics:
 ## Conclusion
 The Phoneme Classification project demonstrates the potential of CNNs in accurately classifying phonemes within the TIMIT corpus. While the model shows promising results, ongoing work includes exploring the integration of Recurrent Neural Networks (RNNs) to better capture temporal dependencies in speech data. Future directions also involve testing the model's performance across different languages and dialects, aiming for a more inclusive and versatile speech recognition system.
 
-## How to Use
-To replicate or build upon this project:
 
-1. Clone the repository:
-   ```
-   git clone [repository URL]
-   ```
-2. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter notebook:
-   ```
-   jupyter notebook Phoneme Classification.ipynb
-   ```
 
 ## Acknowledgements
 Special thanks to the creators of the TIMIT corpus for providing a comprehensive dataset that significantly contributes to advancements in speech recognition research.
 
----
 
-Please adapt the placeholders (e.g., [insert accuracy], [repository URL]) and any specific model details to match the actual content and results of your notebook for the most accurate and informative README.
